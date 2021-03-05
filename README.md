@@ -1,6 +1,7 @@
 # Hashing excel files
 
 ### Usage
+- Install required packages:  pip install -r requirements.txt
 - Open config.json
   - Set input_path specifying the name of the excel file and the extension
   - Set output_path specifying the name of the output file and extension
