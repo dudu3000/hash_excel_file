@@ -1,0 +1,7 @@
+xlrd
+pandas
+hashlib
+hmac
+binascii
+json
+os
