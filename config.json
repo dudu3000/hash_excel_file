@@ -1,5 +1,5 @@
 {
-    "input_path": "./Dr. Chang Siemens AI Patients 2.xlsx",
+    "input_path": "",
     "output_path": "./output.xlsx",
     "hashing_length": 16,
     "siteID": "123456789012",
